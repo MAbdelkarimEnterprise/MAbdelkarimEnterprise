@@ -18,14 +18,6 @@ AI student at Grand Valley State. I build AI systems end to end: multi-agent app
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MAbdelkarimEnterprise&theme=github-compact&hide_border=true&bg_color=2B1F18&color=F1E9DE&line=C9B7A5&point=F1E9DE&area=true&area_color=C9B7A5&custom_title=Show%20up%20every%20day,%20and%20let%20the%20numbers%20speak" width="100%" alt="Contribution activity over the last month">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=MAbdelkarimEnterprise&show_icons=true&hide_border=true&bg_color=2B1F18&title_color=F1E9DE&text_color=F1E9DE&icon_color=C9B7A5&ring_color=C9B7A5" width="49%" alt="GitHub stats">
-
-<br><br>
-
 TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Claude API &nbsp;·&nbsp; pgvector
 
 Seeking Summer 2027 internships in technical program management, product and AI.
