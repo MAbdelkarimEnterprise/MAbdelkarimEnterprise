@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-label="SPIRA: a live, click-through web presentation of FINAL TRANSPORTATION by Helena Templeton and Zeina Mostafa">
+  <style>
+    .k{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:2.5px}
+    .t{font-family:'Instrument Serif','Times New Roman',Times,Georgia,serif;font-size:44px;letter-spacing:12px}
+    .d{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px}
+    .u{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;letter-spacing:2px}
+    @media (max-width:600px){.k,.d,.u{display:none}.t{font-size:72px;transform:translateY(8px)}}
+  </style>
+  <rect width="1200" height="150" rx="12" fill="#3B2519"/>
+  <g fill="#FBF7F0">
+    <rect x="28" y="28" width="28" height="6" fill="#2E4A72"/>
+    <text class="k" x="68" y="36">SHIPPED · LIVE PRESENTATION</text>
+    <text class="t" x="28" y="104">SPIRA</text>
+    <text class="d" x="330" y="82">A live, click-through web presentation of FINAL TRANSPORTATION</text>
+    <text class="d" x="330" y="104">by Helena Templeton &amp; Zeina Mostafa. I built the presentation, not the design.</text>
+    <text class="u" x="1172" y="36" text-anchor="end">SPIRAA.VERCEL.APP</text>
+  </g>
+</svg>

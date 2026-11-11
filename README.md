@@ -18,6 +18,10 @@ AI student at Grand Valley State. I build AI systems end to end: multi-agent app
 
 <br><br>
 
+<a href="https://spiraa.vercel.app/"><img src="assets/spira.svg" width="100%" alt="SPIRA. A live, click-through web presentation of FINAL TRANSPORTATION by Helena Templeton &amp; Zeina Mostafa. I built the presentation, not the design."></a>
+
+<br><br>
+
 TypeScript &nbsp;·&nbsp; Python &nbsp;·&nbsp; SQL &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; Supabase &nbsp;·&nbsp; Claude API &nbsp;·&nbsp; pgvector
 
 Seeking Summer 2027 internships in technical program management, product and AI.
