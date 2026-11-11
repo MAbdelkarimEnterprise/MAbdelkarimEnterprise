@@ -1,13 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="200" viewBox="0 0 380 200" role="img" aria-label="54 API routes in NYX, where one orchestrator directs five specialist agents">
   <style>
-    .n{font-family:'Instrument Serif','Times New Roman',Times,Georgia,serif;font-size:96px}
     .l{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:17px;letter-spacing:1px}
-    .s{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;opacity:.78}
-    @media (max-width:200px){.n{font-size:104px}.l{font-size:30px}.s{display:none}}
+    .s{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;opacity:1}
+    @media (max-width:200px){.n{transform:scale(1.0833)}.l{font-size:30px}.s{display:none}}
   </style>
-  <rect width="380" height="200" rx="12" fill="#0032A0"/>
+  <rect width="380" height="200" rx="12" fill="#1058FF"/>
   <g fill="#FFFFFF">
-    <text class="n" x="28" y="112">54</text>
+    <g transform="translate(28 112)"><path class="n" d="M12.7 0.9Q10.1 0.9 7.3 0.1Q4.6 -0.7 2.8 -2.2Q1 -3.7 1 -6Q1 -7.4 1.8 -8.3Q2.7 -9.2 4.1 -9.2Q5.8 -9.2 6.5 -8.1Q7.2 -6.9 7.8 -5.5Q8.4 -4 9.6 -2.9Q10.9 -1.7 13.7 -1.7Q16.8 -1.7 19.7 -3.5Q22.7 -5.3 24.6 -9.3Q26.6 -13.3 26.6 -20Q26.6 -29.1 22.3 -34Q18 -39 7.6 -39.8Q6.1 -40 6.4 -41.4L11.5 -67.9Q11.8 -69.1 13 -69.1H28Q29.7 -69.1 30.4 -69.7Q31.1 -70.4 31.6 -70.9Q32.1 -71.5 32.8 -71.5Q33.6 -71.5 33.7 -70.9Q33.9 -70.3 33.7 -69.5L32.3 -64.5Q32 -63.4 30.8 -63.4H15Q13.8 -63.4 13.5 -62.1L10.8 -47.4Q10.5 -46.1 11.9 -46Q19.5 -45.1 24.2 -41.7Q29 -38.3 31.2 -33.2Q33.5 -28 33.5 -22Q33.5 -14.8 30.4 -9.6Q27.3 -4.5 22.5 -1.8Q17.8 0.9 12.7 0.9ZM53 0Q51.6 0 51.6 -1.1Q51.6 -2.1 52.8 -2.2L56.9 -2.8Q58.9 -3.1 59.6 -3.8Q60.2 -4.5 60.2 -6.3V-18.8Q60.2 -20.2 58.8 -20.2H39.5Q37.6 -20.2 37.6 -21.8Q37.6 -22.3 37.9 -22.8Q38.1 -23.3 38.5 -24.2L61.5 -68.2Q61.9 -69.1 63.1 -69.1H65Q66.7 -69.1 65.9 -67.5L42.8 -26.9Q42.1 -25.5 43.6 -25.5H58.8Q60.2 -25.5 60.2 -26.9V-45.7Q60.2 -46.6 61.2 -47.2L64.7 -49.2Q65.4 -49.6 65.9 -49.4Q66.3 -49.2 66.3 -48.4V-26.9Q66.3 -25.5 67.7 -25.5H71.9Q73.1 -25.5 73.1 -24.4V-21.3Q73.1 -20.2 71.9 -20.2H67.7Q66.3 -20.2 66.3 -18.8V-6.3Q66.3 -4.3 67 -3.6Q67.6 -3 69.6 -2.6L71.8 -2.2Q73.1 -1.9 73.1 -1.1Q73.1 0 71.6 0Z"/></g>
     <text class="l" x="30" y="150">API routes</text>
     <text class="s" x="30" y="176">NYX · one orchestrator, five specialist agents</text>
   </g>

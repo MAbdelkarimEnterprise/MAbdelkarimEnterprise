@@ -1,0 +1,1 @@
+Display text in `assets/*.svg` is outlined Instrument Serif (fonts and OFL licence in `fonts/`). To change a number or name, run `python3 tools/outline.py regular "46.85" 96` (style, text, size in px, optional tracking) and paste the output into the `d="..."` of the matching `<path>`.
