@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="What I'm building: NYX, FORGE, TONED">
+  <style>
+    .k{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:11px;letter-spacing:2.5px}
+    .t{font-family:'Instrument Serif','Times New Roman',Times,Georgia,serif;font-size:38px}
+    .d{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px}
+    @media (max-width:600px){.k,.d{display:none}.t{font-size:64px;transform:translateY(24px)}}
+  </style>
+  <g fill="#2B1F18">
+    <rect x="0" width="384" height="170" rx="12" fill="#F1E9DE"/>
+    <rect x="28" y="28" width="28" height="6" fill="#0032A0"/>
+    <text class="k" x="68" y="36">BUILDING · LIVE</text>
+    <text class="t" x="28" y="92">NYX</text>
+    <text class="d" x="28" y="122">One orchestrator agent directs five specialist</text>
+    <text class="d" x="28" y="142">agents through a streaming workflow engine.</text>
+
+    <rect x="408" width="384" height="170" rx="12" fill="#F1E9DE"/>
+    <rect x="436" y="28" width="28" height="6" fill="#2B1F18"/>
+    <text class="k" x="476" y="36">BUILDING · IN DEVELOPMENT</text>
+    <text class="t" x="436" y="92">FORGE</text>
+    <text class="d" x="436" y="122">Turns a photo of a practice sheet or lift log</text>
+    <text class="d" x="436" y="142">into saved sessions, with an AI coach.</text>
+
+    <rect x="816" width="384" height="170" rx="12" fill="#F1E9DE"/>
+    <rect x="844" y="28" width="28" height="6" fill="#C9B7A5"/>
+    <text class="k" x="884" y="36">BUILDING · PLATFORM</text>
+    <text class="t" x="844" y="92">TONED</text>
+    <text class="d" x="844" y="122">The operating platform for Egypt's first</text>
+    <text class="d" x="844" y="142">hot pilates studio.</text>
+  </g>
+</svg>

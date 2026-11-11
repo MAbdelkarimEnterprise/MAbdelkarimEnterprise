@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Mahmoud Abdelkarim">
+  <style>
+    .serif{font-family:'Instrument Serif','Times New Roman',Times,Georgia,serif}
+    .sans{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif}
+    @media (max-width:600px){.fine{display:none}}
+  </style>
+  <rect width="1200" height="320" rx="12" fill="#F1E9DE"/>
+
+  <rect x="60" y="44" width="28" height="6" fill="#0032A0"/>
+  <rect x="88" y="44" width="28" height="6" fill="#2B1F18"/>
+  <rect x="116" y="44" width="28" height="6" fill="#C9B7A5"/>
+  <text class="sans fine" x="160" y="52" font-size="13" letter-spacing="3" fill="#2B1F18">MAHMOUDABDELKARIM.COM</text>
+
+  <text class="serif" font-size="96" fill="#2B1F18">
+    <tspan x="56" y="150">Mahmoud</tspan>
+    <tspan x="56" y="238" font-style="italic" fill="#0032A0">Abdelkarim</tspan>
+  </text>
+
+  <text class="sans fine" x="60" y="286" font-size="14" letter-spacing="3" fill="#2B1F18">GRAND RAPIDS, MI  ·  CAIRO, EGYPT</text>
+
+  <rect x="900" y="40" width="240" height="240" rx="52" fill="#0032A0"/>
+  <text class="serif" x="1020" y="200" font-size="112" text-anchor="middle" fill="#FFFFFF">MA</text>
+</svg>

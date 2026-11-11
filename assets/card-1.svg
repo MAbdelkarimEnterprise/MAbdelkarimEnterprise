@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="200" viewBox="0 0 380 200" role="img" aria-label="54 API routes in NYX, where one orchestrator directs five specialist agents">
+  <style>
+    .n{font-family:'Instrument Serif','Times New Roman',Times,Georgia,serif;font-size:96px}
+    .l{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:17px;letter-spacing:1px}
+    .s{font-family:'Jost',Futura,'Avenir Next',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:13px;opacity:.78}
+    @media (max-width:200px){.n{font-size:104px}.l{font-size:30px}.s{display:none}}
+  </style>
+  <rect width="380" height="200" rx="12" fill="#0032A0"/>
+  <g fill="#FFFFFF">
+    <text class="n" x="28" y="112">54</text>
+    <text class="l" x="30" y="150">API routes</text>
+    <text class="s" x="30" y="176">NYX · one orchestrator, five specialist agents</text>
+  </g>
+</svg>
