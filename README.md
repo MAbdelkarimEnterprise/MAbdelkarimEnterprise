@@ -4,7 +4,7 @@
 
 <br><br>
 
-AI student at Grand Valley State. I build AI systems end to end: multi-agent apps, data pipelines, evals.
+AI student. I build - design AI systems end to end: multi-agent apps, data pipelines, evals.
 
 <br>
 
