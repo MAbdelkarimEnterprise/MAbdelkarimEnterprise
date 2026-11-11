@@ -18,7 +18,7 @@ AI student at Grand Valley State. I build AI systems end to end: multi-agent app
 
 <br><br>
 
-<a href="https://spiraa.vercel.app/"><img src="assets/spira.svg" width="100%" alt="SPIRA. A live, click-through web presentation of FINAL TRANSPORTATION by Helena Templeton &amp; Zeina Mostafa. I built the presentation, not the design."></a>
+<a href="https://spiraa.vercel.app/"><img src="assets/spira.svg" width="100%" alt="SPIRA, a live presentation"></a>
 
 <br><br>
 
